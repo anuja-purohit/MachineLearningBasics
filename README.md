@@ -1,2 +1,2 @@
 # MachineLearningBasics
-kuch naya karteh hai 
+Learning basics
